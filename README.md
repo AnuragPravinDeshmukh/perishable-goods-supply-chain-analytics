@@ -33,7 +33,7 @@ The project is organized as follows to match professional consulting and data de
 ---
 
 ## 📊 Dashboard Features & Architecture
-*(As documented in `"C:\Users\Victus\OneDrive\Pictures\Screenshots\Perishable Goods Sales & Waste Analysis Dashboard.png"`)*
+*(As documented in `"CUsersVictusOneDrivePicturesScreenshotsPerishable Goods Sales & Waste Analysis Dashboard.png"`)*
 
 The final dashboard was built entirely within **Microsoft Excel** using advanced analytics features:
 *   **Executive KPI Cards:** Top-level view of Total Revenue, Total Profit, Average Profit Margin, Total Units Sold, and an orange-highlighted **Total Unit Waste** card to prioritize cost control.
