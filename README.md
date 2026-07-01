@@ -33,6 +33,7 @@ The project is organized as follows to match professional consulting and data de
 ---
 
 ## 📊 Dashboard Features & Architecture
+
 <img width="1283" height="640" alt="Perishable Goods Sales   Waste Analysis Dashboard" src="https://github.com/user-attachments/assets/ace22f6b-813c-4cf5-8067-c445feefc57b" />
 
 
