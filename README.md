@@ -7,33 +7,34 @@
 ## 📌 Project Overview
 This repository features an end-to-end data analysis project focused on resolving inventory inefficiencies within a perishable goods retail network. By leveraging advanced Excel functions, data modeling, and dynamic visualizations, this project takes raw transactional data and converts it into strategic business intelligence.
 
-The primary objective is to address a critical profitability threat: **a 20.4% inventory wastage rate** that severely compresses the company's average profit margins[cite: 1].
+The primary objective is to address a critical profitability threat: **a 20.4% inventory wastage rate** that severely compresses the company's average profit margins.
 
 ---
 
 ## 💼 Business Problem Statement
-The organization generates a robust top-line gross revenue of **₹59.11 Crores**, yet the overall Average Profit Margin is heavily compressed at just **₹13.39**[cite: 1]. 
+The organization generates a robust top-line gross revenue of **₹59.11 Crores**, yet the overall Average Profit Margin is heavily compressed at just **₹13.39**. 
 
 ### Key Operational Challenges Addressed:
-1. **The Spoilage Leak:** Total Unit Waste has reached **5,201,615 units** against **20,283,565 Total Units Sold**[cite: 1]. Roughly 1 in 5 items stocked results in unrecovered capital[cite: 1].
-2. **Revenue Over-Reliance:** Over **68% of total revenue (₹40.78 Crore)** is generated solely by the *Pharmaceuticals* category, creating a risky single-point-of-failure dependency[cite: 1].
-3. **Store Performance Disparity:** While `STORE_040` has optimized its local supply chain to achieve peak profits (**₹27.40 Lakhs**), all other stores are underperforming and stagnant (~₹22 Lakhs)[cite: 1].
-4. **Product-Specific Spoilage:** Volume-heavy categories like *Frozen Dinners* and *Frozen Desserts* suffer from the highest unit spoilage rates due to a failure in local demand forecasting or cold-chain management[cite: 1].
+1. **The Spoilage Leak:** Total Unit Waste has reached **5,201,615 units** against **20,283,565 Total Units Sold**[cite: 1]. Roughly 1 in 5 items stocked results in unrecovered capital.
+2. **Revenue Over-Reliance:** Over **68% of total revenue (₹40.78 Crore)** is generated solely by the *Pharmaceuticals* category, creating a risky single-point-of-failure dependenc].
+3. **Store Performance Disparity:** While `STORE_040` has optimized its local supply chain to achieve peak profits (**₹27.40 Lakhs**), all other stores are underperforming and stagnant (~₹22 Lakhs).
+4. **Product-Specific Spoilage:** Volume-heavy categories like *Frozen Dinners* and *Frozen Desserts* suffer from the highest unit spoilage rates due to a failure in local demand forecasting or cold-chain management.
 
 ---
 
 ## 🛠️ Repository Structure
 The project is organized as follows to match professional consulting and data delivery standards:
 
-*   📂 **`PROBLEM_STATEMENT.md`** - Comprehensive breakdown of the retail and supply chain conflicts[cite: 1].
+*   📂 **`PROBLEM_STATEMENT.md`** - Comprehensive breakdown of the retail and supply chain conflicts.
 *   📂 **`dataset/`** - Contains the raw and cleaned `.csv` / `.xlsx` data files used for modeling.
 *   📂 **`dashboard/`** - Holds the final interactive Excel workbook showcasing the interactive visuals.
-*   📂 **`REPORT.md`** - A deep-dive executive performance report containing structured data findings and strategic operational recommendations[cite: 1].
+*   📂 **`REPORT.md`** - A deep-dive executive performance report containing structured data findings and strategic operational recommendations.
 
 ---
 
 ## 📊 Dashboard Features & Architecture
-*(As documented in `"CUsersVictusOneDrivePicturesScreenshotsPerishable Goods Sales & Waste Analysis Dashboard.png"`)*
+<img width="1283" height="640" alt="Perishable Goods Sales   Waste Analysis Dashboard" src="https://github.com/user-attachments/assets/ace22f6b-813c-4cf5-8067-c445feefc57b" />
+
 
 The final dashboard was built entirely within **Microsoft Excel** using advanced analytics features:
 *   **Executive KPI Cards:** Top-level view of Total Revenue, Total Profit, Average Profit Margin, Total Units Sold, and an orange-highlighted **Total Unit Waste** card to prioritize cost control.
